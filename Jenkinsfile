@@ -15,7 +15,7 @@ pipeline {
       steps {
 
         sh '''
-        echo "This is from branch new-main"
+        echo "This is from branch new-main 2"
 
         '''
 
