@@ -16,7 +16,7 @@ pipeline {
 
         sh '''
 
-          java -version
+         echo "This is from main branch"
 
         '''
 
