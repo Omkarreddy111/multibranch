@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is from branch 1"
+echo "This is from branch 2"
